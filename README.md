@@ -144,6 +144,7 @@
                  </div>
                  <div class="item">
                     <div class="item-detail">
+                    
                         <img src="free3.jpg" />
                         <div>
                             <small><i class="fa-solid fa-clock"></i>50 jam</small>
