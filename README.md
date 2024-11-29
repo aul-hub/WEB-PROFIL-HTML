@@ -61,7 +61,7 @@
 
             <div class="grid">
                 <div class="item">
-                    <img src="boostrap.png" />
+                    <img src="boostrap.jpg" />
                     <div class="item-detail">
                         <p>Make 50 websites using Boostrap</p>
                         <div>
