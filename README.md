@@ -152,10 +152,9 @@
                     </div>
                 </div>
             <div>
-      </section>
+     
 
       <footer>
         <div class="wrapper">&copy; 2024 website portofolio diweb Aul</div>
       </footer>
-</body>
-</html>
+
